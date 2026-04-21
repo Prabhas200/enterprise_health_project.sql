@@ -25,9 +25,3 @@ Similar to hospital systems upgrading from legacy databases to modern data platf
 - Automated billing logic
 - Audit logging
 
-
-## 👨‍💻 Author  
-
-**NAMA DEVI SRI PRABHAS**  
-📧 prabhas1759@gmail.com  
-🔗 https://www.linkedin.com/in/prabhas-n-8317a0243/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiqD6VIN%2FTZOdaCM4skeKwg%3D%3D

@@ -1,0 +1,92 @@
+# 🏥 Enterprise Health Platform Modernization  
+### 📊 End-to-End Healthcare Data Engineering & Analytics (MySQL)
+
+---
+
+## 📌 Overview  
+This project simulates a real-world **enterprise healthcare data modernization system**, transforming a legacy database into a **scalable, normalized, and analytics-ready platform**.
+
+The system is designed to improve **data quality, reporting performance, and operational efficiency** while enabling advanced analytics for healthcare workflows.
+
+---
+
+## 🎯 Business Problem  
+Legacy healthcare systems often face:
+
+- Data duplication and redundancy  
+- Poor query performance  
+- Inconsistent patient and claims records  
+- Limited analytics and reporting capabilities  
+
+---
+
+## 🚀 Solution  
+This project addresses these challenges by:
+
+- Designing a **normalized relational database (3NF)**  
+- Cleaning and standardizing legacy datasets  
+- Migrating data into structured schema  
+- Building analytical queries and reporting views  
+- Optimizing performance using indexing techniques  
+
+---
+
+## 🏗️ Modules  
+
+- Patients  
+- Doctors  
+- Departments  
+- Appointments  
+- Diagnoses  
+- Prescriptions  
+- Billing  
+- Insurance  
+- Lab Tests  
+- Audit Logs  
+
+---
+
+## ⚙️ Tech Stack  
+
+- MySQL 8.0  
+- SQL (DDL, DML, DQL)  
+- Stored Procedures  
+- Triggers  
+- Views  
+- Indexing  
+
+---
+
+## 🔄 Workflow  
+
+1. Legacy data simulation  
+2. Data generation  
+3. Data cleaning & validation  
+4. Schema design (3NF)  
+5. Data migration  
+6. Data validation  
+7. Reporting & analytics  
+
+---
+
+## 🔥 Features  
+
+- Automated billing using triggers  
+- Appointment audit logging  
+- Stored procedures for scheduling & payments  
+- Analytics views for business insights  
+- Query performance optimization  
+
+---
+
+## 📊 Sample Queries  
+
+```sql
+-- Monthly Revenue
+SELECT * FROM vw_monthly_revenue;
+
+-- Doctor Workload
+SELECT * FROM vw_doctor_workload;
+
+-- Unpaid Bills
+SELECT * FROM vw_unpaid_bills;
